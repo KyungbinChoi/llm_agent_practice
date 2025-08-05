@@ -1233,6 +1233,7 @@ requires-dist = [
     { name = "decorator", specifier = "==5.1.1" },
     { name = "deprecated", specifier = "==1.2.15" },
     { name = "distro", specifier = "==1.9.0" },
+    { name = "duckduckgo-search" },
     { name = "duckduckgo-search", specifier = "==7.1.1" },
     { name = "durationpy", specifier = "==0.9" },
     { name = "emoji", specifier = "==2.14.0" },
